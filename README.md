@@ -56,6 +56,6 @@ Analysis of customer accounts and email performance using SQL to identify key ma
 
 ## 📫 Let's Connect
 
-I'm open to opportunities as a **Junior Data Analyst**, where I can combine my background in business and Marketing with data analysis to support data-driven decisions.
+I'm open to opportunities as a **Junior Data Analyst**, where I can combine my background in business and marketing with data analysis to support data-driven decisions.
 
 💼 [LinkedIn](https://www.linkedin.com/in/thaizamartinsc/)
