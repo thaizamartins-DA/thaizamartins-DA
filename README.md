@@ -53,3 +53,9 @@ Analysis of customer accounts and email performance using SQL to identify key ma
 * Building portfolio projects focused on real business problems
 * Developing dashboards and data visualizations with **Power BI**
 * Improving my ability to communicate insights through data storytelling
+
+## 📫 Let's Connect
+
+I'm open to opportunities as a **Junior Data Analyst**, where I can combine my background in business and Marketing with data analysis to support data-driven decisions.
+
+💼 [LinkedIn](https://www.linkedin.com/in/thaizamartinsc/)
