@@ -46,3 +46,10 @@ Sales performance analysis using spreadsheets, including data cleaning, KPI trac
 ### 📧 [Customer Email Performance Analysis](https://github.com/thaizamartins-DA/customer-email-performance-analysis)
 
 Analysis of customer accounts and email performance using SQL to identify key markets, engagement patterns, and business opportunities.
+
+## 🎯 Current Focus
+
+* Strengthening my skills in **Python and SQL** for data analysis
+* Building portfolio projects focused on real business problems
+* Developing dashboards and data visualizations with **Power BI**
+* Improving my ability to communicate insights through data storytelling
